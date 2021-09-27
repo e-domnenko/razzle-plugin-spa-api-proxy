@@ -1,0 +1,26 @@
+{
+  "name": "razzle-plugin-spa-api-proxy",
+  "version": "1.0.0",
+  "description": "Razzle plugin to proxy API requests for SPA build type using Webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/e-domnenko/razzle-plugin-spa-api-proxy.git"
+  },
+  "keywords": [
+    "Razzle",
+    "plugin",
+    "SPA",
+    "API",
+    "proxy"
+  ],
+  "author": "Ievgen Domnenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/e-domnenko/razzle-plugin-spa-api-proxy/issues"
+  },
+  "homepage": "https://github.com/e-domnenko/razzle-plugin-spa-api-proxy#readme"
+}
